@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Mohamed Ashraf
 
-<!--
-**Mohamed-Ashraf-Ahmed777/Mohamed-Ashraf-Ahmed777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer & Communication Engineering Student  
+🤖 Undergraduate AI Engineer  
+🐍 Python | Machine Learning | Deep Learning | NLP | CV
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a undergraduate Computer and Communication Engineering student at Alexandria University with a strong interest in AI Engineering, Machine Learning, Deep Learning, Mathematics, NLP, LLMs and Computer Vision.
+
+
+## Skills
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- PyTorch
+- TensorFlow
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Git & GitHub
+
+## Currently Learning
+- AI Engineering
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- PyTorch
+- TensorFlow
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+
+
+## Projects
+
+I am building practical Machine Learning,
+Deep Learning, and Software Engineering projects.
+
+## Connect With Me
+
+- LinkedIn url
+- Email
