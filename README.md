@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./github-header.png"
+  <img src="./Mohamed Ashraf.png"
        width="100%"
-       alt="Mohamed Ashraf">
+       alt="Mohamed Ashraf - Software Engineering and AI">
 </p>
 
 # Hi 👋, I'm Mohamed Ashraf
