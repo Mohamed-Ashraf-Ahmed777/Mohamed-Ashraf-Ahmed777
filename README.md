@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./github-header.png"
+       width="100%"
+       alt="Mohamed Ashraf - Software Engineering and AI">
+</p>
+
 # Hi 👋, I'm Mohamed Ashraf
 
 🎓 Computer & Communication Engineering Student  
