@@ -6,7 +6,11 @@
 
 ## About Me
 
-I am a undergraduate Computer and Communication Engineering student at Alexandria University with a strong interest in AI Engineering, Machine Learning, Deep Learning, Mathematics, NLP, LLMs and Computer Vision.
+I'm a Computer and Communication Engineering student at Alexandria University, passionate about Software Engineering and Artificial Intelligence.
+
+I'm interested in building practical software solutions and exploring areas such as Machine Learning, Deep Learning, NLP, and Computer Vision.
+
+I enjoy learning new technologies, strengthening my problem-solving skills, and applying theoretical concepts through hands-on projects.
 
 
 ## Skills
