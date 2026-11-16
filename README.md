@@ -30,8 +30,6 @@ I enjoy learning new technologies, strengthening my problem-solving skills, and 
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - Operating Systems
-- Discrete Mathematics
-- MATLAB
 
 ### Software Engineering
 - Git & GitHub
@@ -79,5 +77,5 @@ Implemented fundamental classification algorithms, including Decision Tree, Naiv
 ## Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/mohamed-ashraf-9b4386303
-- **Email:** es.Moh.ashraf2023@alexu.edu.eg OR mohamed_ashraf_ahmed@icloud.com
+- **Email:** es.Moh.ashraf2023@alexu.edu.eg
 - **GitHub:** [@Mohamed-Ashraf-Ahmed777](https://github.com/Mohamed-Ashraf-Ahmed777)
